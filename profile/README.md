@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://cavern.js.org/"><img src="../.github/banner.png" width="520" alt="cavern.js"/></a>
+		<a href="https://cavern.js.org/"><img src="https://github.com/cavernjs/.github/blob/main/.github/banner.png?raw=true" width="520" alt="cavern.js"/></a>
 	</p>
 </div>
 
